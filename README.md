@@ -1,0 +1,2 @@
+# Descdepago
+Descuento de pagos
